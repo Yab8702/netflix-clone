@@ -2,10 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function HeaderContent() {
   return (
-    <div
-      className="absolute top-[30%] lg:top-[45%] lg:left-[35%] -translate-x-2/4 max-w-[650px] -translate-y-2/4] text-left mt-5 md:left-[50%] md:top-[30%] 
-    sm:top-[30%] left-[50%]"
-    >
+    <div className="relative top-[30%] lg:top-[65%] lg:left-[5%] max-w-[885px] mt-36 pt-64 pb-36 px-24">
       <h1 className="text-[2.5rem] font-semibold lg:leading-[90px] sm:text-[2.5rem] md:text-[2.75rem] lg:text-[4.375rem] ">
         Unlimited movies, TV shows, and more
       </h1>

@@ -9,7 +9,7 @@ import HeaderBottom from "./HeaderBottom";
 // import Hero from "./Hero";
 export default function Header() {
   return (
-    <header className="header w-full h-screen ">
+    <header className="header pt-6 ">
       {/* <Navbar /> */}
       {/* <Hero /> */}
       <HeaderContent />
