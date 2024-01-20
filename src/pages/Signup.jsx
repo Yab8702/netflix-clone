@@ -93,6 +93,7 @@ export default function Signup() {
               <button
                 className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-6 rounded focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-opacity-50"
                 type="submit"
+                disabled
               >
                 Sign Up
               </button>
